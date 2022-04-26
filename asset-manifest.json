@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ab5ce3c.css",
+    "main.js": "/static/js/main.342a57fc.js",
+    "static/js/787.3641db70.chunk.js": "/static/js/787.3641db70.chunk.js",
+    "static/media/campus.jpg": "/static/media/campus.c3d66d8d836c1ffb9c5f.jpg",
+    "static/media/Classy_logo.gif": "/static/media/Classy_logo.01eeecbbcf5a53ea543f.gif",
+    "static/media/ustlogo.png": "/static/media/ustlogo.457373930d5521a496f9.png",
+    "index.html": "/index.html",
+    "main.4ab5ce3c.css.map": "/static/css/main.4ab5ce3c.css.map",
+    "main.342a57fc.js.map": "/static/js/main.342a57fc.js.map",
+    "787.3641db70.chunk.js.map": "/static/js/787.3641db70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab5ce3c.css",
+    "static/js/main.342a57fc.js"
+  ]
+}
